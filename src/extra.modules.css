@@ -1,0 +1,11 @@
+.box{
+    background-color: rgb(255, 1, 1);
+    color: black;
+    
+    height: auto;
+}
+
+.table,th,td{
+    border: 2px solid black;
+   
+}
